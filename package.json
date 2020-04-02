@@ -1,7 +1,8 @@
 {
-  "name": "blobmewc",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-redux-ducks-template",
+  "version": "1.0",
+  "private": false,
+  "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@reduxjs/toolkit": "^1.1.0",
